@@ -1,9 +1,13 @@
 Difficult problem in this file
 Here is the starting point
 
-First Attempt
-Step 1
+Second Attempt
+Step A
+Step B
+Step C
+Step D
 Step 2
 Step 3
-Step 4
-Didnt work as expected
+Step Master
+
+Almost reached the solution
