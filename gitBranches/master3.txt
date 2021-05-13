@@ -1,0 +1,3 @@
+a file added in master after creating a branc, so the branch doesnt have it
+
+we have to rebase on the branch to update the parent master without using a merge
