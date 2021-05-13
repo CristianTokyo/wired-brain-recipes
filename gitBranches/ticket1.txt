@@ -1,0 +1,4 @@
+Working on ticket 1
+things going well
+Blocked on missing requirement
+Waiting...
