@@ -1,2 +1,12 @@
 Difficult problem in this file
 Here is the starting point
+
+Second Attempt
+Step A
+Step B
+Step C
+Step D
+Step 2
+Step 3
+
+Almost reached the solution
