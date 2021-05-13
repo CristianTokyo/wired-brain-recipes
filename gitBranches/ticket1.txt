@@ -1,0 +1,8 @@
+Working on ticket 1
+things going well
+Blocked on missing requirement
+Waiting...
+
+filling the missing requirement
+
+job done!
